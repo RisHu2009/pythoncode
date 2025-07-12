@@ -34,7 +34,5 @@ It serves as a resource for:
 - ✅ DSA (Searching, Sorting, Stacks, Queues)  
 - ✅ Practice problems & mini projects
 
----
 
-## 📁 Folder Structure (Example)
 
